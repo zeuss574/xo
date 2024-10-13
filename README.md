@@ -1,23 +1,18 @@
 # Tic-Tac-Toe Game
 
-Welcome to the Tic-Tac-Toe game! This is a simple two-player game where you can enter your names and take turns to play Tic-Tac-Toe. The game will display the winner when someone wins.
+Chào mừng đến với trò chơi Tic-Tac-Toe! Đây là trò chơi đơn giản dành cho hai người chơi, trong đó bạn có thể nhập tên của mình và lần lượt chơi Tic-Tac-Toe. Trò chơi sẽ hiển thị người chiến thắng khi có người chiến thắng.
 
-## Features
+## Tính năng
 
-- Two-player game: Enjoy a classic game of Tic-Tac-Toe with a friend. Compete to see who can outmaneuver the other and claim victory.
-- Customizable player names: Make the game your own by entering custom names for Player X and Player O. Add a personal touch to your matches.
-- Interactive Gameplay: The game offers an interactive and user-friendly interface. Simply click on the cells to make your moves. The grid highlights the current player's turn, ensuring a seamless gaming experience.
-- Winning Announcements: When a player wins the game, our Tic-Tac-Toe application will proudly display the victorious player's name and a celebratory message. It's not just about winning; it's about enjoying the thrill of victory!
-- Responsive Design: Whether you're playing on a desktop computer, tablet, or mobile device, our game's responsive design ensures that you can enjoy Tic-Tac-Toe anywhere, anytime.
-- Easy Reset: Want to start a new game? No problem! A convenient reset button allows you to quickly clear the board and begin a fresh match.
+-- Trò chơi hai người chơi: Thưởng thức trò chơi Tic-Tac-Toe cổ điển với một người bạn. Thi đấu để xem ai có thể vượt qua người kia và giành chiến thắng.- Trò chơi hai người chơi: Thưởng thức trò chơi Tic-Tac-Toe cổ điển với một người bạn. Thi đấu để xem ai có thể vượt qua người kia và giành chiến thắng.
 
-## Technologies Used
+## Công nghệ sử dụng
 
 - HTML
 - CSS
-- JavaScript (Factory Functions and Module Pattern)
+- JavaScript
 
 ## Demo
 
-You can check out a live demo of this Tic-Tac-Toe game [here](https://zeuss574.github.io/xo/).
+Chơi tại [đây](https://zeuss574.github.io/xo/).
 
