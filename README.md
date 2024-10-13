@@ -16,3 +16,4 @@ Chào mừng đến với trò chơi Tic-Tac-Toe! Đây là trò chơi đơn gi�
 
 Chơi tại [đây](https://zeuss574.github.io/xo/).
 
+Special thanks to marcft for this code.
